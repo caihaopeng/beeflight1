@@ -1,0 +1,6 @@
+/MDK-ARM/*
+!/MDK-ARM/*.uvprojx
+!/MDK-ARM/startup_*.s
+!/MDK-ARM/*.bat
+
+/.vscode/

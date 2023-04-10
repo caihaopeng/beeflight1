@@ -1,0 +1,3 @@
+[submodule "Core/middleware/dynamic_vtx/pid"]
+	path = Core/middleware/dynamic_vtx/pid
+	url = https://github.com/pms67/PID.git
